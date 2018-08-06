@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# @examle run `sudo sh installer-webstom.sh WebStorm-181.4203.535`
+# @example run `sudo sh installer-webstom.sh WebStorm-181.4203.535`
 
 echoColor () {
 	color=$1;
